@@ -1,4 +1,3 @@
-# OLAP-12c
 Oracle 12 C OLAP sample Schema examples
 Install OLAP 11g schema example in 12c.
 
@@ -13,3 +12,7 @@ Global users and pluggable users .
 Overview of the Multitenant Architecture
 
 Concepts for Database Administrators
+
+Refer to my wiki below to get the more details and the urls i referred 
+
+https://github.com/buzyjess/OLAP-12c/wiki
